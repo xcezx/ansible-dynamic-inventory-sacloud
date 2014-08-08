@@ -1,0 +1,22 @@
+{
+  "name": "ansible-dynamic-inventory-sacloud",
+  "version": "0.0.1",
+  "description": "Sakura cloud external inventory script",
+  "license": "BSD",
+  "bin": {
+    "sa": "cli.js"
+  },
+  "author": "xcezx",
+  "repository": "xcezx/ansible-dynamic-inventory-sacloud",
+  "engines": {
+    "node": ">=0.11.13",
+    "npm": ">=1.4.9"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "dependencies": {
+    "commander": "^2.3.0",
+    "sacloud": "0.0.15"
+  }
+}
