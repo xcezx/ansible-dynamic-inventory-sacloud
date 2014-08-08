@@ -4,7 +4,7 @@
   "description": "Sakura cloud external inventory script",
   "license": "BSD",
   "bin": {
-    "sa": "cli.js"
+    "sacloud-inventory": "cli.js"
   },
   "author": "xcezx",
   "repository": "xcezx/ansible-dynamic-inventory-sacloud",
